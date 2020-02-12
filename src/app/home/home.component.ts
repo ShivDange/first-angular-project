@@ -39,7 +39,7 @@ export class HomeComponent implements OnInit {
 itemCount : number = 4;
 btnText : string = 'Add an item';
 goalText : string = 'My First life goal';
-goals = ['My first life Goal','I want climb a Mountain','Go to River Rafting'];
+goals = ['Career Passion and Personal Satisfaction' , 'Proper Mindset and Balance' , 'Commitment to Improved Physical Health'];
   constructor() { }
 
   ngOnInit() {
